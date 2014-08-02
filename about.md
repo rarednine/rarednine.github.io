@@ -3,12 +3,12 @@ layout: page
 title: About
 ---
 
-Some information about you!
+Webdev no0b
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+nothing to see here. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rarednine@users.noreply.github.com](mailto:rarednine@users.noreply.github.com)
